@@ -9,7 +9,7 @@
 ## 🌱 About me / Sobre mí 
 
 - 🎓 I’m a Software Engineer and I work on freelance projects. / Soy Ingeniero de Software y trabajo en proyectos freelance.
-- 🔭 I’ve worked on various interesting projects (you can mention some if you want). / He trabajado en diversos proyectos interesantes (puedes mencionar algunos si lo deseas).
+- 🔭 I’ve worked on various interesting projects. / He trabajado en diversos proyectos interesantes.
 - 🌱 I love to travel, read, and code. / Me gusta salir de viaje, leer y codear.
 - 💬 Ask me about Go or Blockchain. / Pregúntame sobre Go o Blockchain.
 - 📫 How to reach me: [funes@samuelfunes.com](mailto:funes@samuelfunes.com) / Cómo contactarme: [funes@samuelfunes.com](mailto:funes@samuelfunes.com)
